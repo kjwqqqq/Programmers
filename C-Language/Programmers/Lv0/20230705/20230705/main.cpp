@@ -1,4 +1,4 @@
-//LEVEL 0
+//DAY 1
 
 /* 1 문자열 출력하기
 #include <stdio.h>
